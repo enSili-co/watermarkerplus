@@ -1,5 +1,5 @@
 {
-  "name": "Watermarker+: QR Code generator for macOS",
+  "name": "Watermarker+: Batch watermarker tool for macOS",
   "icons": [
     {
       "src": "favico/android-icon-36x36.png",
@@ -39,7 +39,7 @@
     }
   ],
   "short_name": "Watermarker+",
-  "description": "Generate & style beautiful QRCode images directly from your Mac",
+  "description": "Generate & watermark text or images watermarks for your photo collections",
   "start_url": "/",
   "display": "standalone"
 }

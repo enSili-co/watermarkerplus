@@ -3,7 +3,7 @@
 </p>
 <h1 align=center>Watermarker+ for Mac</h1>
 <p align=center>
-  QR Code styling + generation<br/>made ultra-fun and easy
+  The easiest way to watermark<br/>your image & photos - in batch
 </p>
 
 
