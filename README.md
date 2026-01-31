@@ -11,7 +11,7 @@
 
 # Download for free (3-day trial)
 
-▶︎ https://ensili.co/download/watermarkerplus/watermarker+-1.3.5.zip
+▶︎ https://cdn.ensili.co/app/watermarkerplus/download/watermarker+-1.3.5.zip
 
 # Official Website
 
